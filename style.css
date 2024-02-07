@@ -42,10 +42,15 @@ main{
 
 footer{
     height: 50px;
-    background-color: gray;
+    background-color: rgb(255, 232, 169);
 }
 
 .textbox{
+    text-align: center;
+}
+
+span{
+    
     color: white;
     font-size: 24px;
     text-align: center;
